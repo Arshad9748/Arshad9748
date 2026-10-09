@@ -1,16 +1,19 @@
-## Hi there 👋
+ <img src="banner-animated.svg" alt="Arshad Murtaza Ahmed, full-stack developer" width="100%">
+# Hi, I'm Arshad
 
-<!--
-**Arshad9748/Arshad9748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from Kolkata. MCA graduate (2025), looking for a junior full-stack or frontend role.
 
-Here are some ideas to get you started:
+## What I build with
+React · Node.js · Express · PostgreSQL · MongoDB
+Also familiar with Angular and Python/Flask.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **[Wilhelm Tracker](https://github.com/Arshad9748/Media-Tracker)**: a solo-built media tracker that combines four external APIs behind one backend layer, with JWT auth.  [Live](https://wilhelm-tracker.vercel.app/)
+- **[Market Metrics](https://github.com/Arshad9748/Market-Metrics)**: A price prediction platform with a React frontend I built from scratch, backed by a Flask + ML pipeline.
+- **[DSA practice]**: daily solved problems with notes on approach
+
+## Currently
+Extending Wilhelm Tracker and practicing data structures and algorithms.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/arshad-murtaza-ahmed/) · your-arshadmahmed0786@gmail.com

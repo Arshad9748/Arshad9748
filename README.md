@@ -1,4 +1,6 @@
  <img src="banner-animated.svg" alt="Arshad Murtaza Ahmed, full-stack developer" width="100%">
+
+ 
 # Hi, I'm Arshad
 
 Full-stack developer from Kolkata. MCA graduate (2025), looking for a junior full-stack or frontend role.
